@@ -2,9 +2,8 @@ package com.dooby.testCases;
 
 import java.util.Hashtable;
 
-import org.testng.Assert;
-import org.testng.annotations.Test;
 
+import org.testng.annotations.Test;
 import com.dooby.pages.HomePage;
 import com.dooby.pages.LoginPage;
 import com.dooby.pages.ZohoAppPage;
@@ -21,7 +20,7 @@ public class LoginTest extends BaseTest {
 
 		ZohoAppPage zp = login.doLogin(data.get("username"), data.get("password"));
 		
-		Assert.fail("Failing Intentionally to check the screenshot");
+		//Assert.fail("Failing Intentionally to check the screenshot");
 		
 	}
 	

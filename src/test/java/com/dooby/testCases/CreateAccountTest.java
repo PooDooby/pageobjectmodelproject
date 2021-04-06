@@ -26,7 +26,7 @@ public class CreateAccountTest {
 
 		cap.CreateAccount(data.get("accountname"));
 		
-		Assert.fail("Failing Intentionally to check the screenshot");
+	//	Assert.fail("Failing Intentionally to check the screenshot");
 
 	}
 
