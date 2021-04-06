@@ -1,0 +1,13 @@
+DEBUG devpinoyLogger - (Page.java:64) Config file loaded !!!
+DEBUG devpinoyLogger - (Page.java:80) OR file loaded !!!
+DEBUG devpinoyLogger - (Page.java:148) Navigateed to :https://www.zoho.com/
+DEBUG cache - (_Log4jLoggerFactory.java:45) Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+DEBUG cache - (_Log4jLoggerFactory.java:45) TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+DEBUG cache - (_Log4jLoggerFactory.java:45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG cache - (_Log4jLoggerFactory.java:45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG cache - (_Log4jLoggerFactory.java:45) Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Dooby/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+DEBUG cache - (_Log4jLoggerFactory.java:45) Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+DEBUG cache - (_Log4jLoggerFactory.java:45) TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+DEBUG cache - (_Log4jLoggerFactory.java:45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG cache - (_Log4jLoggerFactory.java:45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG cache - (_Log4jLoggerFactory.java:45) Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Dooby/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
